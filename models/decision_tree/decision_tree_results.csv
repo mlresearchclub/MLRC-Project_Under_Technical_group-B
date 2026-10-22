@@ -1,0 +1,3 @@
+feature_set,max_depth,min_samples_leaf,threshold,test_tn,test_fp,test_fn,test_tp,test_precision,test_recall,test_f1,test_roc_auc,test_pr_auc
+A,6,1,0.4,166,0,0,5,1.0,1.0,1.0,1.0,1.0
+B,5,1,0.75,146,20,4,1,0.047619047619047616,0.2,0.07692307692307693,0.5433734939759036,0.09005847953216374
